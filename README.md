@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 
 
 
-![Ekran Görüntüsü]("C:\Users\umuts\OneDrive\Masaüstü\ekran.png")
+![Ekran Görüntüsü]("https://github.com/umutsonmez/kodluyoruzilkrepo/blob/main/ekran.png")
 
   
 ## Installation 
