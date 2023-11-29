@@ -4,7 +4,7 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde 
 
 
 
-![Ekran Görüntüsü]("https://github.com/umutsonmez/kodluyoruzilkrepo/blob/main/ekran.png")
+![Uygulama Ekran Görüntüsü](https://github.com/umutsonmez/kodluyoruzilkrepo/blob/main/ekran.png)
 
   
 ## Installation 
